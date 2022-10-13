@@ -8,14 +8,17 @@ This working directory contains different projects which I have done in the past
 
 ## Data analysis projects
 
+### Gapminder dataset analysis (R)
+Data analysis report with R-Markown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). 
+
 ### Analysis of the Classicsmodels Database Data (MySQL, Excel)
 Extraction of data from a sample SQL database called classicmodels from the [mysqltutorial website](https://www.mysqltutorial.org/mysql-sample-database.aspx) and subsequent data analysis in Excel.
 
 ### Movie database project (Python, MySQL)
 Creation of SQL movie database fed with data extracted from JSON files obtained from the [IMDB website](https://www.imdb.com/) via API requests as well as subsequent data analysis.
 
-### Gapminder dataset analysis (R), UPCOMING
-Data analysis report with R-Markown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). 
+### Sakila database data analysis (SQL, Python)
+Upcoming!!!
 
 ## Programming projects
 
