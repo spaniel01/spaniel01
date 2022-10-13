@@ -2,7 +2,7 @@
 
 This working directory contains different projects which I have done in the past or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
-- ✨ I’m currently working on the Sakila project, using SQL and Python!
+- ✨ I’m **currently working on** the Sakila project, using SQL and Python!
 - 🌱 I’m currently practicing everything at once!
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
