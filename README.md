@@ -1,8 +1,10 @@
 # Welcome! 
 
-This working directory contains different projects which I have done in the past or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
+This site contains different projects which I have finished or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
-- ✨ I’m **currently working on** the Sakila project, using SQL and Python!
+- :vertical_traffic_light: **Currently working on** the Sakila project, using SQL and Python!
+- :baby_chick: **Latest finished project:** Gapminder dataset analysis (R) 
+- :warning: **Learning** Power BI on Datacamp
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
 
