@@ -11,7 +11,7 @@ This site contains different projects which I have finished or am currently work
 ## Data analysis projects
 
 ### Gapminder dataset analysis (R)
-Data analysis report with R-Markown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). 
+Data analysis report with R-Markdown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). 
 
 ### Analysis of the Classicsmodels Database Data (MySQL, Excel)
 Extraction of data from a sample SQL database called classicmodels from the [mysqltutorial website](https://www.mysqltutorial.org/mysql-sample-database.aspx) and subsequent data analysis in Excel.
