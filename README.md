@@ -28,4 +28,4 @@ Sakila database analysis with final report in Jupyter Notebook. To practice and 
 A vocab trainer program with various functionalities, including practice and test mode, options to view, add and delete vocab as well as user input validation.
 
 ### Image selection program (Python, Spyder)
-Small program to make the task of selecting photos, involving a lot of clicking if done manually, easier by promting user for simple inputs and selecting the desired photos
+Small program to make the task of selecting photos, involving a lot of clicking if done manually, easier by promting user for simple inputs and selecting the desired photos.
