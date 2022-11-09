@@ -19,8 +19,8 @@ Extraction of data from a sample SQL database called classicmodels from the [mys
 ### Movie database project (Python, MySQL)
 Creation of SQL movie database fed with data extracted from JSON files obtained from the [IMDB website](https://www.imdb.com/) via API requests as well as subsequent data analysis.
 
-### Sakila database data analysis (MySQL, Python's SQLAlchemy, Jupyter's Notebook): In progress!!!
-Sakila database analysis with final report in Jupyter Notebook. To practice and demonstrate knowledge of MySQL, SQLAlchemy and Jupyter's Notebook, the MySQL code is translated to SQLAlchemy in a separate step and the final report is done by using the latter code to directly query the DB.
+### Sakila database data analysis (MySQL, Python's SQLAlchemy, Jupyter Lab): In progress, 4/5 done!!!
+Sakila database analysis with final report in Jupyter Notebook. To practice and demonstrate knowledge of MySQL, SQLAlchemy and Jupyter Lab, the MySQL code is translated to SQLAlchemy in a separate step and the final report is done by using the latter code to directly query the DB.
 
 ## Programming projects
 
