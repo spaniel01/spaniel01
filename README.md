@@ -4,7 +4,7 @@ This site contains different projects which I have finished or am currently work
 
 - :vertical_traffic_light: **Currently working on** the Sakila project, using SQL and Python! To see the progress, click **[here](https://github.com/spaniel01/SQL_Python_sakila_data_analysis/)**
 - :tada: **Most professional**: Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
-- :baby_chick: **Latest finished project**: Sakila database analysis (Python, Jupyter Lab) **[here](https://github.com/spaniel01/SQL_Python_sakila_data_analysis.git)** 
+- :baby_chick: **Latest finished project**: Sakila database analysis (Python, Jupyter Lab), see **[here](https://github.com/spaniel01/SQL_Python_sakila_data_analysis.git)** 
 - :warning: **Learning**: Power BI on Datacamp
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
