@@ -3,8 +3,9 @@
 This site contains different projects which I have finished or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
 - :vertical_traffic_light: **Currently working on** the Sakila project, using SQL and Python! To see the progress, click **[here](https://github.com/spaniel01/SQL_Python_sakila_data_analysis/)**
-- :baby_chick: **Latest finished project:** Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
-- :warning: **Learning** Power BI on Datacamp
+- :tada: **Most professional**: Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
+- :baby_chick: **Latest finished project**: Sakila database analysis (Python, Jupyter Lab) **[here](https://github.com/spaniel01/SQL_Python_sakila_data_analysis.git)** 
+- :warning: **Learning**: Power BI on Datacamp
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
 
@@ -19,8 +20,8 @@ Extraction of data from a sample SQL database called classicmodels from the [mys
 ### Movie database project (Python, MySQL)
 Creation of SQL movie database fed with data extracted from JSON files obtained from the [IMDB website](https://www.imdb.com/) via API requests as well as subsequent data analysis.
 
-### Sakila database data analysis (MySQL, Python's SQLAlchemy, Jupyter Lab): In progress, 4/5 done!!!
-Sakila database analysis with final report in Jupyter Notebook. To practice and demonstrate knowledge of MySQL, SQLAlchemy and Jupyter Lab, the MySQL code is translated to SQLAlchemy in a separate step and the final report is done by using the latter code to directly query the DB.
+### Sakila database data analysis (MySQL, Python's SQLAlchemy, Jupyter Lab)
+Sakila database analysis with final report in Jupyter Lab. To practice and demonstrate knowledge of MySQL, SQLAlchemy and Jupyter Lab, the MySQL code is translated to SQLAlchemy in a separate step and the final report is done by using the latter code to directly query the DB.
 
 ## Programming projects
 
