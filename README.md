@@ -2,7 +2,7 @@
 
 This site contains different projects which I have finished or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
-- :vertical_traffic_light: **Currently working on** the Sakila project, using SQL and Python! To see the progress, click **[here](https://github.com/spaniel01/SQL_Python_sakila_data_analysis/)**
+- :vertical_traffic_light: **Currently working on**: ... (UPCOMING) ...
 - :tada: **Most professional**: Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
 - :baby_chick: **Latest finished project**: Sakila database analysis (Python, Jupyter Lab), see **[here](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** 
 - :warning: **Learning**: Power BI on Datacamp
