@@ -2,7 +2,7 @@
 
 This site contains different projects which I have finished or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
-- :vertical_traffic_light: **Currently working on**: ... (UPCOMING) ...
+- :vertical_traffic_light: **Currently working on**: Electoral data analysis of regional elections in Spain from the onset of democracy in 1977 (Python, Seaborn, Jupyter Lab)
 - :tada: **Most professional**: Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
 - :baby_chick: **Latest finished project**: Sakila database analysis (Python, Jupyter Lab), see **[here](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** 
 - :warning: **Learning**: Power BI on Datacamp
