@@ -2,14 +2,19 @@
 
 This site contains different projects which I have finished or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
-- :vertical_traffic_light: **Currently working on**: Electoral data analysis of regional elections in Spain from the onset of democracy in 1977 (Python, Seaborn, Jupyter Lab)
-- :tada: **Most professional**: Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
+- :vertical_traffic_light: **Currently working on**: Building my own database from data obtained via API requests (see "Movie database project" description below)
+- :tada: **Most professional**: 
+  - Spanish Autonomous Community election result analysis (Python, Seaborn, Jupyter Lab), see...
+  - Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
 - :baby_chick: **Latest finished project**: Sakila database analysis (Python, Jupyter Lab), see **[here](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** 
 - :warning: **Learning**: Power BI on Datacamp
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
 
 ## Data analysis projects
+
+### Spanish AC electoral result analysis (Python, Seaborn, Jupyter Lab)
+Data analysis report of Spanish AC electoral data from 1978 to 2021 using Python, Seaborn and Jupyter Lab. 
 
 ### Gapminder dataset analysis (R)
 Data analysis report with R-Markdown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). 
