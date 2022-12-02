@@ -14,10 +14,10 @@ This site contains different projects which I have finished or am currently work
 ## Data analysis projects
 
 ### Spanish AC electoral result analysis (Python, Seaborn, Jupyter Lab)
-Data analysis report of Spanish AC electoral data from 1978 to 2021 using Python, Seaborn and Jupyter Lab. 
+Data analysis report of Spanish AC electoral data from 1978 to 2021 using Python, Seaborn and Jupyter Lab. **[Go there!](https://spaniel01.github.io/Py_Seaborn_Spain_AC_elec_analysis/)**
 
 ### Gapminder dataset analysis (R)
-Data analysis report with R-Markdown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). 
+Data analysis report with R-Markdown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). **[Go there!](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
 
 ### Analysis of the Classicsmodels Database Data (MySQL, Excel)
 Extraction of data from a sample SQL database called classicmodels from the [mysqltutorial website](https://www.mysqltutorial.org/mysql-sample-database.aspx) and subsequent data analysis in Excel.
