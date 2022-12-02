@@ -4,7 +4,7 @@ This site contains different projects which I have finished or am currently work
 
 - :vertical_traffic_light: **Currently working on**: Building my own database from data obtained via API requests (see "Movie database project" description below)
 - :tada: **Most professional**: 
-  - Spanish Autonomous Community election result analysis (Python, Seaborn, Jupyter Lab), see...
+  - Spanish Autonomous Community election result analysis (Python, Seaborn, Jupyter Lab), **[here](https://spaniel01.github.io/Py_Seaborn_Spain_AC_elec_analysis/)** 
   - Gapminder dataset analysis (R), see **[here](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
 - :baby_chick: **Latest finished project**: Sakila database analysis (Python, Jupyter Lab), see **[here](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** 
 - :warning: **Learning**: Power BI on Datacamp
