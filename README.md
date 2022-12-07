@@ -2,7 +2,9 @@
 
 This site contains different projects which I have finished or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
-- :vertical_traffic_light: **Currently working on**: Building my own database from data obtained via API requests (see "Movie database project" description below)
+- :vertical_traffic_light: **Currently working on**: 
+  - Data analysis of Centro de Investigaciones Sociológicas survey 
+  - Building my own database from data obtained via API requests (see "Movie database project" description below)
 - :tada: **Most professional**: 
   - Spanish Autonomous Community election result analysis (Python, Seaborn, Jupyter Lab). **[View analysis!](https://spaniel01.github.io/Py_Seaborn_Spain_AC_elec_analysis/)** 
   - Gapminder dataset analysis (R). **[View analysis!](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
