@@ -57,4 +57,4 @@ Small program to make the task of selecting photos, involving a lot of clicking 
 ### Strategy game
 Classic strategy war game, where players can move different types of units across a game board to bring peace to the whole world!
 
-**[See the code!][https://github.com/spaniel01/py_strategy_game]**
+**[See the code!](https://github.com/spaniel01/py_strategy_game)**
