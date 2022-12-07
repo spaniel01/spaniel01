@@ -10,6 +10,7 @@ This site contains different projects which I have finished or am currently work
   - Gapminder dataset analysis (R). **[View analysis!](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
   - Sakila database analysis (Python, Jupyter Lab). **[View analysis!](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** 
 - :baby_chick: **Latest finished project**: Spanish Autonomous Community election result analysis (see first link above)
+- :dancer: **Just for fun**: Code a fun strategy game. Long-term project. 
 - :warning: **Learning**: Power BI on Datacamp
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
