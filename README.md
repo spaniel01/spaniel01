@@ -10,7 +10,7 @@ This site contains different projects which I have finished or am currently work
   - Gapminder dataset analysis (R). **[View analysis!](https://spaniel01.github.io/R_gapminder_analysis_report/)** 
   - Sakila database analysis (Python, Jupyter Lab). **[View analysis!](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** 
 - :baby_chick: **Latest finished project**: Spanish Autonomous Community election result analysis (see first link above)
-- :dancer: **Just for fun**: Code a fun strategy game. Long-term project. 
+- :dancer: **Just for fun**: Code a fun strategy game. Long-term project. **[See the code!][https://github.com/spaniel01/py_strategy_game]**
 - :warning: **Learning**: Power BI on Datacamp
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
@@ -53,3 +53,8 @@ A vocab trainer program with various functionalities, including practice and tes
 Small program to make the task of selecting photos, involving a lot of clicking if done manually, easier by promting user for simple inputs and selecting the desired photos.
 
 **[See the code!](https://github.com/spaniel01/Python_Spyder_image_selector)** 
+
+### Strategy game
+Classic strategy war game, where players can move different types of units across a game board to bring peace to the whole world!
+
+**[See the code!][https://github.com/spaniel01/py_strategy_game]**
