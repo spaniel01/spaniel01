@@ -17,17 +17,17 @@ This site contains different projects which I have finished or am currently work
 ### Spanish AC electoral result analysis (Python, Seaborn, Jupyter Lab)
 Data analysis report of Spanish AC electoral data from 1978 to 2021 using Python, Seaborn and Jupyter Lab. 
 
-**[View analysis](https://spaniel01.github.io/Py_Seaborn_Spain_AC_elec_analysis/)** or **[see the code!](https://github.com/spaniel01/Py_Seaborn_Spain_AC_elec_analysis)** 
+**[View analysis](https://spaniel01.github.io/Py_Seaborn_Spain_AC_elec_analysis/)** *or* **[see the code!](https://github.com/spaniel01/Py_Seaborn_Spain_AC_elec_analysis)** 
 
 ### Gapminder dataset analysis (R)
 Data analysis report with R-Markdown of the [Gapminder dataset](https://www.rdocumentation.org/packages/gapminder/versions/0.3.0), delivered as part of the R gapminder package, and which contains the variables country, continent, year, life expectancy, population, GDP per capita). 
 
-**[View analysis](https://spaniel01.github.io/R_gapminder_analysis_report/)** or **[see the code!](https://github.com/spaniel01/R_gapminder_analysis_report)** 
+**[View analysis](https://spaniel01.github.io/R_gapminder_analysis_report/)** *or* **[see the code!](https://github.com/spaniel01/R_gapminder_analysis_report)** 
 
 ### Sakila database data analysis (MySQL, Python's SQLAlchemy, Jupyter Lab)
 Sakila database analysis with final report in Jupyter Lab. To practice and demonstrate knowledge of MySQL, SQLAlchemy and Jupyter Lab, the MySQL code is translated to SQLAlchemy in a separate step and the final report is done by using the latter code to directly query the DB. 
 
-**[View analysis](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/))** or **[see the code!](https://github.com/spaniel01/SQL_Python_sakila_data_analysis)** 
+**[View analysis](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** *or* **[see the code!](https://github.com/spaniel01/SQL_Python_sakila_data_analysis)** 
 
 ### Analysis of the Classicsmodels Database Data (MySQL, Excel)
 Extraction of data from a sample **SQL database** called classicmodels from the [mysqltutorial website](https://www.mysqltutorial.org/mysql-sample-database.aspx) and subsequent data analysis in **Excel**.
