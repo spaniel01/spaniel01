@@ -3,7 +3,7 @@
 This site contains different projects which I have finished or am currently working on, using SQL, R, Python and Excel! The description below gives an overview of each project. See the repositories for the project files and code!
 
 - :vertical_traffic_light: **Currently working on**: 
-  - Data analysis of Centro de Investigaciones Sociológicas survey 
+  - Data analysis of Centro de Investigaciones Sociológicas survey (Python, Seaborn, Jupyter Lab). **[View progress!](https://github.com/spaniel01/cis_survey_data_analysis)**
   - Building my own database from data obtained via API requests (see "Movie database project" description below)
 - :tada: **Most professional**: 
   - Spanish Autonomous Community election result analysis (Python, Seaborn, Jupyter Lab). **[View analysis!](https://spaniel01.github.io/Py_Seaborn_Spain_AC_elec_analysis/)** 
@@ -11,11 +11,15 @@ This site contains different projects which I have finished or am currently work
   - Sakila database analysis (Python, Jupyter Lab). **[View analysis!](https://spaniel01.github.io/SQL_Python_sakila_data_analysis/)** 
 - :baby_chick: **Latest finished project**: Spanish Autonomous Community election result analysis (see first link above)
 - :dancer: **Just for fun**: Code a fun strategy game. Long-term project. **[See the code!](https://github.com/spaniel01/py_strategy_game)**
-- :warning: **Learning**: Power BI on Datacamp
 - 💬 Ask me about anything, happy about suggestions for improvements!
 <!--- 📫 How to reach me: ... --->
 
 ## Data analysis projects
+
+### CIS survey exploratory data analysis (Python, Seaborn, Jupyter Lab)
+Analysis of one of the most recent Centro de Investigaciones Sociológicas (CIS) survey datasets using Python, Seaborn, Jupyter Lab. 
+
+**[View progress!](https://github.com/spaniel01/cis_survey_data_analysis)**
 
 ### Spanish AC electoral result analysis (Python, Seaborn, Jupyter Lab)
 Data analysis report of Spanish AC electoral data from 1978 to 2021 using Python, Seaborn and Jupyter Lab. 
